@@ -9,7 +9,10 @@
 
 ## Usage
 
-This module is under development and not ready for use yet.
+* Include `@overlookmotel/eslint-config-react` as a dev dependency
+* Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-react"`
+
+NB Does not extend the base `@overlookmotel/eslint-config` so use `"extends": "@overlookmotel/eslint-config"` too in `.eslintrc`.
 
 ## Tests
 
