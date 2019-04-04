@@ -15,6 +15,6 @@ chai.config.includeStack = true;
 
 // Tests
 
-it('Exports an object', function() {
+it('Exports an object', () => {
 	expect(eslintConfigReact).to.be.an('object');
 });
