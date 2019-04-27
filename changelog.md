@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.1
+
+Dev:
+
+* Update dev dependency `@overlookmotel/eslint-config`
+* Update dev dependency `@overlookmotel/eslint-config-tests`
+* Git ignore package-lock.json
+
 ## 2.0.0
 
 Breaking changes:
