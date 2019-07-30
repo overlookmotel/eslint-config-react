@@ -1,5 +1,12 @@
 # Changelog
 
+## 3.0.2
+
+Bug fixes:
+
+* Set `env.browser`
+* Use `babel-eslint` parser
+
 ## 3.0.1
 
 Rule changes:
