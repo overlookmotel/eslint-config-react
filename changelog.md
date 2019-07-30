@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.1
+
+Rule changes:
+
+* Add `sourceType: 'module'`
+
 ## 3.0.0
 
 Breaking changes:
