@@ -13,6 +13,9 @@ module.exports = {
 	// Base rules are in `@overlookmotel/eslint-config`
 	extends: airbnb.extends.filter(path => !path.includes('/eslint-config-airbnb-base/')),
 
+	env: {
+		browser: true
+	},
 	parserOptions: {
 		sourceType: 'module'
 	},
