@@ -18,12 +18,7 @@ module.exports = {
 		'react/prop-types': ['off'],
 		'react/destructuring-assignment': ['off'],
 		'react/jsx-indent': ['error', 'tab', {checkAttributes: true}],
-
-		// Temporarily disabled due to bug when using tabs
-		// https://github.com/yannickcr/eslint-plugin-react/issues/2152
-		// TODO Re-enable rule when new release including fix is released
-		// https://github.com/yannickcr/eslint-plugin-react/commit/2c091dd968504b01999d0ef4059f1457dfab1892
-		'react/jsx-one-expression-per-line': ['off']
+		'react/jsx-one-expression-per-line': ['error', {allow: 'single-child'}]
 	}
 };
 
