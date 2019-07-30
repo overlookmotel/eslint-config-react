@@ -1,5 +1,27 @@
 # Changelog
 
+## 3.0.0
+
+Breaking changes:
+
+* Drop support for Node v6
+* Update dependencies + peer dependencies
+
+Rule changes:
+
+* Enable `react/jsx-one-expression-per-line` rule
+* Add `import/extensions` rule
+
+Dev:
+
+* CI run tests on Node v12
+* `package-lock.json`
+* Update dev dependencies
+
+Doc:
+
+* Correct README
+
 ## 2.0.1
 
 Dev:
