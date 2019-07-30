@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.3
+
+Dev:
+
+* Update dev dependencies
+
 ## 3.0.2
 
 Bug fixes:
