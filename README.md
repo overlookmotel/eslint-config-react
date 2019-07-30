@@ -14,6 +14,7 @@ ESLint config for apps/libraries using React. Based on [eslint-config-airbnb](ht
 Add dev dependencies in `package.json`:
 
 * `@overlookmotel/eslint-config-react`
+* `babel-eslint`
 * `eslint`
 * `eslint-config-airbnb`
 * `eslint-plugin-import`
