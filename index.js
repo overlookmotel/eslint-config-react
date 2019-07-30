@@ -18,7 +18,11 @@ module.exports = {
 		'react/prop-types': ['off'],
 		'react/destructuring-assignment': ['off'],
 		'react/jsx-indent': ['error', 'tab', {checkAttributes: true}],
-		'react/jsx-one-expression-per-line': ['error', {allow: 'single-child'}]
+		'react/jsx-one-expression-per-line': ['error', {allow: 'single-child'}],
+		'import/extensions': ['error', {
+			js: 'never',
+			jsx: 'always'
+		}]
 	}
 };
 
