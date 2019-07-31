@@ -1,5 +1,12 @@
 # Changelog
 
+## 3.0.4
+
+Rule changes:
+
+* Disable `react/jsx-one-expression-per-line` rule
+* Disable NodeJS rules
+
 ## 3.0.3
 
 Dev:
