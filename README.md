@@ -19,6 +19,7 @@ Add dev dependencies in `package.json`:
 * `eslint-config-airbnb`
 * `eslint-plugin-import`
 * `eslint-plugin-react`
+* `eslint-plugin-react-hooks`
 * `eslint-plugin-jsx-a11y`
 
 Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-react"`
