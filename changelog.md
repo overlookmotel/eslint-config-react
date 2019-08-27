@@ -1,5 +1,15 @@
 # Changelog
 
+## 3.1.0
+
+Rule changes:
+
+* Update AirBnB config
+
+Dev:
+
+* Update dev dependencies
+
 ## 3.0.4
 
 Rule changes:
