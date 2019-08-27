@@ -31,6 +31,7 @@ module.exports = {
 			js: 'never',
 			jsx: 'always'
 		}],
+		'no-underscore-dangle': ['off'],
 
 		// Disable NodeJS rules which are enabled in `@overlookmotel/eslint-config`
 		'node/no-extraneous-import': ['off'],
