@@ -1,5 +1,15 @@
 # Changelog
 
+## 3.1.1
+
+Rule changes:
+
+* Disable `no-underscore-dangle` rule
+
+Dev:
+
+* Update dev dependencies
+
 ## 3.1.0
 
 Rule changes:
