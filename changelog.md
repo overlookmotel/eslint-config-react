@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.0.0
+
+Breaking changes:
+
+* Update ESLint peer dependencies
+
+Dev:
+
+* Update dev dependencies
+
 ## 3.1.1
 
 Rule changes:
