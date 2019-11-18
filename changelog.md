@@ -1,5 +1,11 @@
 # Changelog
 
+## 5.0.0
+
+Breaking changes:
+
+* Downgrade `eslint-plugin-react-hooks` peer dependency to ^1.7.0 to match `eslint-config-airbnb`
+
 ## 4.0.0
 
 Breaking changes:
