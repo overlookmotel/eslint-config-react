@@ -1,5 +1,34 @@
 # Changelog
 
+## 6.0.0
+
+Breaking changes:
+
+* Do not disable node rules
+* Modify `import/extensions` rule
+* Drop support for Node v8
+
+Features:
+
+* Update peer dependencies
+
+Dev:
+
+* Run tests on CI on Node v13
+* Update dev dependencies
+* Remove `sudo` from Travis CI config
+* ESLint ignore coverage dir
+
+No code:
+
+* Remove old commented-out code
+* NPM ignore `.DS_Store` files
+
+Docs:
+
+* Versioning policy
+* Update license year
+
 ## 5.0.0
 
 Breaking changes:
