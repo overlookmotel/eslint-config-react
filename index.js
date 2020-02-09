@@ -31,28 +31,6 @@ module.exports = {
 			js: 'never',
 			jsx: 'always'
 		}],
-		'no-underscore-dangle': ['off'],
-
-		// Disable NodeJS rules which are enabled in `@overlookmotel/eslint-config`
-		'node/no-extraneous-import': ['off'],
-		'node/no-extraneous-require': ['off'],
-		'node/no-missing-import': ['off'],
-		'node/no-missing-require': ['off'],
-		'node/no-unpublished-bin': ['off'],
-		'node/no-unpublished-import': ['off'],
-		'node/no-unpublished-require': ['off'],
-		'node/no-unsupported-features/es-builtins': ['off'],
-		'node/no-unsupported-features/es-syntax': ['off'],
-		'node/no-unsupported-features/node-builtins': ['off'],
-		'node/process-exit-as-throw': ['off'],
-		'node/shebang': ['off'],
-		'node/no-deprecated-api': ['off'],
-
-		'node/exports-style': ['off'],
-		'node/prefer-global/buffer': ['off'],
-		'node/prefer-global/console': ['off'],
-		'node/prefer-global/process': ['off'],
-		'node/prefer-global/url-search-params': ['off'],
-		'node/prefer-global/url': ['off']
+		'no-underscore-dangle': ['off']
 	}
 };
