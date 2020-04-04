@@ -7,4 +7,3 @@ coverage
 .eslintrc.js
 .gitattributes
 .travis.yml
-jest.config.js
