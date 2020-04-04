@@ -1,6 +1,6 @@
 {
   "name": "@overlookmotel/eslint-config-react",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "@overlookmotel's ESLint config for React",
   "main": "index.js",
   "author": {

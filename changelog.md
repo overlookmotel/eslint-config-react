@@ -1,5 +1,29 @@
 # Changelog
 
+## 7.0.0
+
+Breaking changes:
+
+* Update ESLint peer dependencies
+
+Rule changes:
+
+* Remove unnecessary `import/extensions` rule
+
+No code:
+
+* Header code comments
+
+Dependencies:
+
+* Update `eslint-config-airbnb` dependency
+
+Dev:
+
+* Update dev dependencies
+* Update `.gitignore` + `.npmignore`
+* Tab width 2 in `.editorconfig`
+
 ## 6.0.0
 
 Breaking changes:
