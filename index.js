@@ -8,6 +8,7 @@
 const airbnb = require('eslint-config-airbnb');
 
 // Exports
+
 module.exports = {
 	// Extend eslint-config-airbnb, omitting base rules
 	// Base rules are in `@overlookmotel/eslint-config`

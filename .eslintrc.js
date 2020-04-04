@@ -1,4 +1,11 @@
+/* --------------------
+ * @overlookmotel/eslint-config-react module
+ * ESLint config
+ * ------------------*/
+
 'use strict';
+
+// Exports
 
 module.exports = {
 	extends: [
