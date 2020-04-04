@@ -27,7 +27,6 @@ module.exports = {
 		'react/destructuring-assignment': ['off'],
 		'react/jsx-indent': ['error', 'tab', {checkAttributes: true}],
 		'react/jsx-one-expression-per-line': ['off'],
-		'import/extensions': ['error', 'always'],
 		'no-underscore-dangle': ['off']
 	}
 };
