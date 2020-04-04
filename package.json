@@ -14,7 +14,7 @@
     "url": "https://github.com/overlookmotel/eslint-config-react/issues"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.0.1"
+    "eslint-config-airbnb": "^18.1.0"
   },
   "peerDependencies": {
     "babel-eslint": "^10.0.3",
