@@ -28,7 +28,7 @@
   "devDependencies": {
     "@overlookmotel/eslint-config": "^7.1.2",
     "@overlookmotel/eslint-config-node": "^1.0.2",
-    "@overlookmotel/eslint-config-tests": "^3.0.0",
+    "@overlookmotel/eslint-config-tests": "^4.0.1",
     "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
     "coveralls": "^3.0.11",
