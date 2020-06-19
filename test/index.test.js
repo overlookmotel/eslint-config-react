@@ -6,15 +6,10 @@
 'use strict';
 
 // Modules
-const chai = require('chai'),
-	{expect} = chai,
-	eslintConfigReact = require('../index.js');
-
-// Init
-chai.config.includeStack = true;
+const eslintConfigReact = require('@overlookmotel/eslint-config-react');
 
 // Tests
 
-it('Exports an object', () => {
-	expect(eslintConfigReact).to.be.an('object');
+it('Exports an object', () => { // eslint-disable-line jest/lowercase-name
+	expect(eslintConfigReact).toBeObject();
 });
