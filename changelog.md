@@ -1,5 +1,27 @@
 # Changelog
 
+## 7.1.0
+
+Features:
+
+* Drop support for Node v13
+
+Dependencies:
+
+* Update `eslint-config-airbnb` dependency
+* Update peer dependencies
+
+Dev:
+
+* Replace `.npmignore` with `files` list in `package.json`
+* Replace Mocha + Chai with Jest
+* Update dev dependencies
+* CI run tests on Node v14
+* `.editorconfig` config
+* Simplify lint scripts
+* ESLint ignore all dot files
+* Travis CI cache NPM
+
 ## 7.0.0
 
 Breaking changes:
