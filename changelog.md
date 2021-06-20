@@ -1,5 +1,37 @@
 # Changelog
 
+## 8.0.0
+
+Breaking changes:
+
+* Disable `react/no-multi-comp` rule
+* Enable JSX in `.test.js` files
+* Use standard ESLint parser
+
+Features:
+
+* Drop support for Node v10
+
+Dependencies:
+
+* Update dependencies + peer dependencies
+
+No code:
+
+* Linting fixes
+
+Dev:
+
+* Use NPM v7 for development
+* Use Github Actions for CI
+* Update dev dependencies
+
+Docs:
+
+* Remove Greenkeeper badge
+* Update license year
+* Remove license indentation
+
 ## 7.1.0
 
 Features:
