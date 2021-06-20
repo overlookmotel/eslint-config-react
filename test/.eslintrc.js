@@ -12,7 +12,6 @@ module.exports = {
 		'@overlookmotel/eslint-config-jest'
 	],
 	rules: {
-		'import/no-unresolved': ['error', {ignore: ['^@overlookmotel/eslint-config-react$']}],
-		'node/no-missing-require': ['error', {allowModules: ['@overlookmotel/eslint-config-react']}]
+		'import/no-unresolved': ['error', {ignore: ['^@overlookmotel/eslint-config-react$']}]
 	}
 };
