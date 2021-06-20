@@ -2,7 +2,6 @@
 [![Build Status](https://img.shields.io/travis/overlookmotel/eslint-config-react/master.svg)](http://travis-ci.org/overlookmotel/eslint-config-react)
 [![Dependency Status](https://img.shields.io/david/overlookmotel/eslint-config-react.svg)](https://david-dm.org/overlookmotel/eslint-config-react)
 [![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/eslint-config-react.svg)](https://david-dm.org/overlookmotel/eslint-config-react)
-[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/eslint-config-react.svg)](https://greenkeeper.io/)
 [![Coverage Status](https://img.shields.io/coveralls/overlookmotel/eslint-config-react/master.svg)](https://coveralls.io/r/overlookmotel/eslint-config-react)
 
 # @overlookmotel's ESLint config for React
