@@ -10,20 +10,22 @@ ESLint config for apps/libraries using React. Based on [eslint-config-airbnb](ht
 
 ## Usage
 
+Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-react"`
+
+NB Does not extend the base config [@overlookmotel/eslint-config](https://www.npmjs.com/package/@overlookmotel/eslint-config) so use `"extends": "@overlookmotel/eslint-config"` too in `.eslintrc`.
+
 Add dev dependencies in `package.json`:
 
 * `@overlookmotel/eslint-config-react`
-* `babel-eslint`
 * `eslint`
-* `eslint-config-airbnb`
+
+If using NPM before v7, additionally add peer dependencies as dev dependencies in `package.json`:
+
+* `babel-eslint`
 * `eslint-plugin-import`
 * `eslint-plugin-react`
 * `eslint-plugin-react-hooks`
 * `eslint-plugin-jsx-a11y`
-
-Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-react"`
-
-NB Does not extend the base config [@overlookmotel/eslint-config](https://www.npmjs.com/package/@overlookmotel/eslint-config) so use `"extends": "@overlookmotel/eslint-config"` too in `.eslintrc`.
 
 ## Versioning
 
