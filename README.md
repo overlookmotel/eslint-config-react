@@ -21,11 +21,10 @@ Add dev dependencies in `package.json`:
 
 If using NPM before v7, additionally add peer dependencies as dev dependencies in `package.json`:
 
-* `babel-eslint`
 * `eslint-plugin-import`
+* `eslint-plugin-jsx-a11y`
 * `eslint-plugin-react`
 * `eslint-plugin-react-hooks`
-* `eslint-plugin-jsx-a11y`
 
 ## Versioning
 
