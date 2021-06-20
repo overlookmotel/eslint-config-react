@@ -1,5 +1,5 @@
 [![NPM version](https://img.shields.io/npm/v/@overlookmotel/eslint-config-react.svg)](https://www.npmjs.com/package/@overlookmotel/eslint-config-react)
-[![Build Status](https://img.shields.io/travis/overlookmotel/eslint-config-react/master.svg)](http://travis-ci.org/overlookmotel/eslint-config-react)
+[![Build Status](https://img.shields.io/github/workflow/status/overlookmotel/eslint-config-react/Test.svg)](https://github.com/overlookmotel/eslint-config-react/actions)
 [![Dependency Status](https://img.shields.io/david/overlookmotel/eslint-config-react.svg)](https://david-dm.org/overlookmotel/eslint-config-react)
 [![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/eslint-config-react.svg)](https://david-dm.org/overlookmotel/eslint-config-react)
 [![Coverage Status](https://img.shields.io/coveralls/overlookmotel/eslint-config-react/master.svg)](https://coveralls.io/r/overlookmotel/eslint-config-react)
