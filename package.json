@@ -15,18 +15,18 @@
     "url": "https://github.com/overlookmotel/eslint-config-react/issues"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.2.0"
+    "eslint-config-airbnb": "^18.2.1"
   },
   "peerDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.2.0"
+    "@babel/eslint-parser": "7.14.5",
+    "eslint": "^7.29.0"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "7.14.5",
     "@overlookmotel/eslint-config": "^7.2.1",
     "@overlookmotel/eslint-config-jest": "^4.1.0",
     "@overlookmotel/eslint-config-node": "^2.1.2",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.2.0",
+    "eslint": "^7.29.0",
     "jest": "^26.0.1",
     "jest-extended": "^0.11.5"
   },
