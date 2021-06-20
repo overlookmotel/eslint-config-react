@@ -28,6 +28,7 @@ module.exports = {
 		'react/jsx-indent': ['error', 'tab', {checkAttributes: true}],
 		'react/jsx-one-expression-per-line': ['off'],
 		'react/no-multi-comp': ['off'],
+		'react/jsx-filename-extension': ['error', {extensions: ['.jsx', '.test.js']}],
 		'no-underscore-dangle': ['off']
 	}
 };
