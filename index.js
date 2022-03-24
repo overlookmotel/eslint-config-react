@@ -26,6 +26,7 @@ module.exports = {
 		'react/prop-types': ['off'],
 		'react/destructuring-assignment': ['off'],
 		'react/jsx-indent': ['error', 'tab', {checkAttributes: true}],
+		'react/jsx-indent-props': ['off'], // Clashes with ESLint `indent` rule
 		'react/jsx-one-expression-per-line': ['off'],
 		'react/no-multi-comp': ['off'],
 		'react/jsx-filename-extension': ['error', {extensions: ['.jsx', '.test.js']}],
