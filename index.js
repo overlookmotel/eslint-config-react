@@ -31,6 +31,7 @@ module.exports = {
 		'react/jsx-props-no-spreading': ['off'],
 		'react/no-multi-comp': ['off'],
 		'react/jsx-filename-extension': ['error', {extensions: ['.jsx', '.test.js']}],
+		'react/react-in-jsx-scope': ['off'],
 		'no-underscore-dangle': ['off']
 	}
 };
