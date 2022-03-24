@@ -1,5 +1,35 @@
 # Changelog
 
+## 9.0.0
+
+Breaking changes:
+
+* Update to ESLint 8
+
+Rule changes:
+
+* Disable `react/jsx-indent-props` rule [fix]
+* Disable `react/jsx-props-no-spreading` rule
+* Disable `react/react-in-jsx-scope` rule
+
+Bug fixes:
+
+* Specify ESLint plugin peer dependencies
+
+Refactor:
+
+* Order rules in alphabetical order
+
+Dev:
+
+* Run tests on CI on Node v17
+* Clean up after `cover` NPM script even if fails
+* Update dev dependencies
+
+Docs:
+
+* Update license year
+
 ## 8.0.0
 
 Breaking changes:
